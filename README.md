@@ -1,2 +1,2 @@
 # fluent_docs
-Documentations about ANSYS Fluent 2025R2
+Documentations of ANSYS Fluent 2025R2
